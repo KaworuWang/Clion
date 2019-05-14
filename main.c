@@ -1,5 +1,3 @@
-}
-
 //练习6 结构
 
 #includ <stdio.h>

@@ -4,8 +4,7 @@
 
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int age = 10;
     int height = 72;
 
@@ -13,3 +12,4 @@ int main()
     printf("i am %d inches tall.\n", height);
 
     return 0;
+}
