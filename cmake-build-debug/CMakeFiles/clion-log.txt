@@ -1,24 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\GitHub\Clion
--- The C compiler identification is GNU 8.1.0
--- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe
--- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe -- works
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Detecting C compile features
--- Detecting C compile features - done
-CMake Error at CMakeLists.txt:7 (add_executable):
-  add_executable cannot create target "Clion" because another target with the
-  same name already exists.  The existing target is an executable created in
-  source directory "D:/GitHub/Clion".  See documentation for policy CMP0002
-  for more details.
-
-
-CMake Error at CMakeLists.txt:8 (add_executable):
-  add_executable cannot create target "Clion" because another target with the
-  same name already exists.  The existing target is an executable created in
-  source directory "D:/GitHub/Clion".  See documentation for policy CMP0002
-  for more details.
-
-
--- Configuring incomplete, errors occurred!
-See also "D:/GitHub/Clion/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/GitHub/Clion/cmake-build-debug
