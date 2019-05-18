@@ -33,3 +33,29 @@ int main(int argc, char *argv[])
  * 使用char name[]来声明，以周围带有"的一些字符来表示，使用%s来打印。
  * C语言中区分单引号的char和双引号的char[]或字符串。
  */
+
+
+#include <stdio.h>
+int main(int argc, char *argv[])
+{
+    int bugs = 100;
+    double bug_rate = 1.2;
+    printf("you have %d bugs at the imaginary rte of %f.\" bugs, bug_rate);
+
+    long univer_of_defects = 1L * 1024L * 1024L * 1024L;
+    printf("The entire universe has %ld bugs.\n", univer_of_defects);
+
+    double expected_bugs = bugs * bug_rate;
+    printf("you are expected to have %f bugs.\n", expected_bugs);
+
+    double part_of_univers = expected_bugs / univer_of_defects;
+    printf("That is only a %e portion of the univers.\n", part_of_univers);
+
+    // this makes no sense, just a demo of something weird
+    char nul_byte = '\0';
+    int care_percentage = bugs * nul_byte;
+    printf("Which means you should care %d%%.\n", care_percentage);
+
+    return 0;
+
+}
