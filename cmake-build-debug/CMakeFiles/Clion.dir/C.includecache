@@ -9,6 +9,12 @@
 D:/GitHub/Clion/main.c
 stdio.h
 -
-ctype.h
+assert.h
+-
+stdlib.h
+-
+errno.h
+-
+string.h
 -
 
