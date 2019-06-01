@@ -2,17 +2,18 @@
 
 int main(int argc, char *argv[])
 {
-    if(argc != 2) {
+    if(argc != 2){
         printf("ERROR: You need one argument.\n");
-        // this is how you abort a program
+        //This is how you abort a Program
+
         return 1;
     }
 
     int i = 0;
-    for(i = 0; argv[1][i] != '\0'; i++) {
+    for(i = 0; argv[1][i] != '\0'; i++){
         char letter = argv[1][i];
 
-        switch(letter) {
+        switch (letter){
             case 'a':
             case 'A':
                 printf("%d: 'A'\n", i);
@@ -21,7 +22,6 @@ int main(int argc, char *argv[])
             case 'e':
             case 'E':
                 printf("%d: 'E'\n", i);
-                break;
 
             case 'i':
             case 'I':
@@ -40,9 +40,10 @@ int main(int argc, char *argv[])
 
             case 'y':
             case 'Y':
-                if(i > 2) {
+                if(i > 2){
                     // it's only sometimes Y
                     printf("%d: 'Y'\n", i);
+
                 }
                 break;
 
