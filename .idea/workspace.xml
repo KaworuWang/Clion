@@ -31,8 +31,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="1194">
+              <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+              <folding>
+                <element signature="e#37#55#0" expanded="true" />
+                <element signature="e#110#131#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,7 +170,8 @@
       <workItem from="1559527570573" duration="3573000" />
       <workItem from="1559642219050" duration="777000" />
       <workItem from="1559700062355" duration="2644000" />
-      <workItem from="1559812155117" duration="569000" />
+      <workItem from="1559812155117" duration="720000" />
+      <workItem from="1559813639483" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="20190509">
       <created>1557377181757</created>
@@ -441,17 +446,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559712856539</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="20190606">
+      <created>1559812730916</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1559812730916</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38899000" />
+    <option name="totallyTimeSpent" value="40338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2568" y="174" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18282989" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1844197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -494,7 +506,8 @@
     <MESSAGE value="20190603" />
     <MESSAGE value="20190604" />
     <MESSAGE value="20190605" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190605" />
+    <MESSAGE value="20190606" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190606" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scratch.md" />
@@ -629,6 +642,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="570">
@@ -637,7 +651,6 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/20190528.c">
       <provider selected="true" editor-type-id="text-editor">
@@ -658,8 +671,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="1194">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+          <folding>
+            <element signature="e#37#55#0" expanded="true" />
+            <element signature="e#110#131#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
