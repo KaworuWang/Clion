@@ -44,5 +44,14 @@ clion - git
 --clone --take --oath --ssh key
 
 
+##Clion使用
+- 使用技巧
+    
+    删除当前一整行的是  Ctrl+Y
+    
+    剪切当前一整行的是  Ctrl+X
+    
+
+
 
 
