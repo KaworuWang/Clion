@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/GitHub/Clion/main.c" "D:/GitHub/Clion/cmake-build-debug/CMakeFiles/Clion.dir/main.c.obj"
+  "C:/Users/CM_ka/CLionProjects/Clion/main.c" "C:/Users/CM_ka/CLionProjects/Clion/cmake-build-debug/CMakeFiles/Clion.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
