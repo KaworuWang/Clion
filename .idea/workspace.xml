@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="Clion" targetName="Clion" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -9,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea54007-4fc1-4210-9e9c-16bb6cae2912" name="Default Changelist" comment="" />
+    <list default="true" id="cea54007-4fc1-4210-9e9c-16bb6cae2912" name="Default Changelist" comment="20190624">
+      <change afterPath="$PROJECT_DIR$/20190613.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190612.c" beforeDir="false" afterPath="$PROJECT_DIR$/20190612.c" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,28 +26,43 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20190610.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190601.c">
+        <entry file="file://$PROJECT_DIR$/20190611.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="456">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20190612.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/20190613.c">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -74,6 +95,9 @@
         <option value="$PROJECT_DIR$/20190601.c" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/20190611.c" />
+        <option value="$PROJECT_DIR$/20190613.c" />
+        <option value="$PROJECT_DIR$/20190612.c" />
       </list>
     </option>
   </component>
@@ -91,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,6 +143,7 @@
       <recent name="D:\GitHub\Clion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CM_ka\CLionProjects\Clion" />
       <recent name="D:\GitHub\Clion" />
     </key>
   </component>
@@ -178,7 +203,8 @@
       <workItem from="1559812155117" duration="720000" />
       <workItem from="1559813639483" duration="1384000" />
       <workItem from="1559902602365" duration="752000" />
-      <workItem from="1560735251321" duration="1249000" />
+      <workItem from="1560735251321" duration="1422000" />
+      <workItem from="1561336280194" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="20190509">
       <created>1557377181757</created>
@@ -467,16 +493,31 @@
       <option name="project" value="LOCAL" />
       <updated>1559814973152</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="20190617">
+      <created>1560736602614</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1560736602614</updated>
+    </task>
+    <task id="LOCAL-00043" summary="20190617">
+      <created>1560736665900</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1560736665900</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42435000" />
+    <option name="totallyTimeSpent" value="42952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2568" y="164" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18759936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1891892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,7 +532,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299532" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3299532" />
-      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.3299532" />
+      <window_info anchor="bottom" id="CMake" order="12" visible="true" weight="0.3299532" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -520,7 +561,9 @@
     <MESSAGE value="20190604" />
     <MESSAGE value="20190605" />
     <MESSAGE value="20190606" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190606" />
+    <MESSAGE value="20190617" />
+    <MESSAGE value="20190624" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190624" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scratch.md" />
@@ -678,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20190601.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -694,6 +730,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190610.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190611.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190613.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190612.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
