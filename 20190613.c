@@ -6,7 +6,8 @@ main()
     printf("\nplease input year,month,day\n");
     scanf("%d,%d,%d",&year,&month,&day);
 
-    switch(month) /*先计算某月以前月份的总天数*/
+    switch(month) 
+        /*先计算某月以前月份的总天数*/
     {
         case 1:sum=0;
             break; 
