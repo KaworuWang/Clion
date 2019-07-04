@@ -36,4 +36,6 @@ main()
         leap=1; 
     else leap=0; 
     if(leap==1&&month>2) 
-        /*如果是闰年且月份大于2,总天数应该加一天*/ sum++; printf("It is the %dth day.",sum); }
+        /*如果是闰年且月份大于2,总天数应该加一天*/ 
+        sum++; 
+    printf("It is the %dth day.",sum); }
