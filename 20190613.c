@@ -17,9 +17,12 @@ main()
             break; 
         case 4:sum=90;
             break; 
-        case 5:sum=120;break; 
-        case 6:sum=151;break; 
-        case 7:sum=181;break; 
+        case 5:sum=120;
+            break; 
+        case 6:sum=151;
+            break; 
+        case 7:sum=181;
+            break; 
         case 8:sum=212;break; 
         case 9:sum=243;break; 
         case 10:sum=273;break; 
