@@ -31,8 +31,10 @@ main()
             break; 
         case 11:sum=304;
             break;
-        case 12:sum=334;break;
-        default:printf("data error");break; 
+        case 12:sum=334;
+            break;
+        default:printf("data error");
+            break; 
     } 
     
     sum=sum+day; 
