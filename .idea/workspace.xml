@@ -12,14 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea54007-4fc1-4210-9e9c-16bb6cae2912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20190614.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190616.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Clion.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Clion.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,7 +118,9 @@
       <workItem from="1560735251321" duration="1249000" />
       <workItem from="1563589997688" duration="1676000" />
       <workItem from="1564054392183" duration="140000" />
-      <workItem from="1564054688464" duration="1281000" />
+      <workItem from="1564054688464" duration="1559000" />
+      <workItem from="1564377473638" duration="336000" />
+      <workItem from="1565570436076" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="20190509">
       <created>1557377181757</created>
@@ -433,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563591576720</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="20190725">
+      <created>1564057068457</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1564057068457</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +448,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -470,7 +476,8 @@
     <MESSAGE value="20190605" />
     <MESSAGE value="20190606" />
     <MESSAGE value="20190720" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190720" />
+    <MESSAGE value="20190725" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190725" />
   </component>
   <component name="masterDetails">
     <states>
