@@ -12,7 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea54007-4fc1-4210-9e9c-16bb6cae2912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20190913.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
@@ -126,6 +125,8 @@
       <workItem from="1566176214780" duration="56000" />
       <workItem from="1568344177093" duration="855000" />
       <workItem from="1568538182323" duration="65000" />
+      <workItem from="1568596107449" duration="94000" />
+      <workItem from="1568687937538" duration="1132000" />
     </task>
     <task id="LOCAL-00001" summary="20190509">
       <created>1557377181757</created>
@@ -449,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565570616363</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Clion">
+      <created>1568596184315</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1568596184315</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +498,8 @@
     <MESSAGE value="20190720" />
     <MESSAGE value="20190725" />
     <MESSAGE value="20190812" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190812" />
+    <MESSAGE value="Clion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clion" />
   </component>
   <component name="masterDetails">
     <states>
